@@ -83,7 +83,7 @@ Thanks for stopping by my profile! I hope you find something interesting here. ð
 </a>
 
 ### Featured projects
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Geovanny-Quintero-Velez/API_REST_CRUD">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Geovanny-Quintero-Velez&repo=API_REST_CRUD" />
 </a>
 
