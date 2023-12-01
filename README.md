@@ -3,7 +3,7 @@
 I am a passionate student at ICESI University and a Full Stack developer with a deep love for crafting impactful technology solutions. My proficiency and experience allows me to tackle diverse challenges with creativity, precision and versatility.
 
 #### What I'm up to currently 🚀
-I am currently immersed in exciting projects that focus on web experiences such as Web applications and APIRest. I am also honing my skills in agile methodologies such as SCRUM and Kanban to ensure efficient and collaborative deliveries. Also as a student of ICESI university, I'm
+I am currently immersed in exciting projects that focus on web experiences such as Web applications and APIRest. I am also honing my skills in agile methodologies such as SCRUM and Kanban to ensure efficient and collaborative deliveries. Also as a student of ICESI university, I'm constantly evolving my skills and improving as a professional
 
 ### Stack and technologies 💻
 
@@ -81,19 +81,16 @@ Thanks for stopping by my profile! I hope you find something interesting here. �
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geovanny-Quintero-Velez&layout=compact" />
 </a>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geovanny-Quintero-Velez&layout=compact)
 
 ### Featured projects
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Juank114Gonzalez&repo=SID_II-Final-project" />
 </a>
-[![API REST CRUD](https://github-readme-stats.vercel.app/api/pin/?username=Juank114Gonzalez&repo=SID_II-Final-project)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Metrics
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Geovanny-Quintero-Velez&show_icons=true&theme=radical&rank_icon=github" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Geovanny-Quintero-Velez&show_icons=true&rank_icon=github" />
 </a>
-[![Geovanny's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geovanny-Quintero-Velez&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Geovanny-Quintero-Velez/Geovanny-Quintero-Velez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
