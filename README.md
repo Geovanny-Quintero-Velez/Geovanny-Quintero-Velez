@@ -77,6 +77,9 @@ When I'm not coding, you'll find me exploring new technologies, enjoying a good 
 
 Thanks for stopping by my profile! I hope you find something interesting here. 😄
 
+### Metrics
+[![Geovanny's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geovanny-Quintero-Velez)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Geovanny-Quintero-Velez/Geovanny-Quintero-Velez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
