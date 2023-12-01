@@ -1,22 +1,63 @@
-### Hi there, I'm Geovanny Quintero! 👋
+<h1 align="center"> Hi there, I'm Geovanny Quintero! 👋</h1>
 
 I am a passionate student at ICESI University and a Full Stack developer with a deep love for crafting impactful technology solutions. My proficiency and experience allows me to tackle diverse challenges with creativity, precision and versatility.
 
 #### What I'm up to currently 🚀
-I am currently immersed in exciting projects that focus on web experiences such as Web applications and APIRest. I am also honing my skills in agile methodologies such as SCRUM and Kanban to ensure efficient and collaborative deliveries.
+I am currently immersed in exciting projects that focus on web experiences such as Web applications and APIRest. I am also honing my skills in agile methodologies such as SCRUM and Kanban to ensure efficient and collaborative deliveries. Also as a student of ICESI university, I'm
 
-### Stack 💻
+### Stack and technologies 💻
 
-**Languages**:
-- Java ♨️
-- JavaScript 🇯🇸
-- Python 🐍
-- Scala 🌐
+<h3 align="left">Frameworks</h3>
+<p align="left"> 
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
+  </a> 
+</p>
 
-**Frameworks**:
-- Spring Boot 🍃
-- React ⚛️
-- Django 🌐
+<h3 align="left">Languages</h3>
+<p align="left"> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a>
+  <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.simpleicons.org/scala" alt="Scala" width="40" height="40"/> 
+  </a>
+</p>
+
+<h3 align="left">Databases</h3>
+<p align="left"> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+  </a> 
+</p>
+
+<h3 align="left">Tools</h3>
+<p align="left"> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+</p>
 
 **Methodologies**:
 - SCRUM 🔄
@@ -26,7 +67,10 @@ I am currently immersed in exciting projects that focus on web experiences such 
 I'm always open to exciting collaborations and learning opportunities. Whether you have an interesting project or just want to chat about technology, feel free to reach out!
 
 #### Where to find me 📫
-Connect with me on [LinkedIn](www.linkedin.com/in/geovanny-alexander-quintero-velez-a11384175) to stay updated on my projects and explore potential collaborations. I'm eager to meet fellow development enthusiasts and build something amazing together.
+Connect with me on [LinkedIn](www.linkedin.com/in/geovanny-alexander-quintero-velez-a11384175) **www.linkedin.com/in/geovanny-alexander-quintero-velez-a11384175** or my email **geovannyalexander07@gmail.com** to stay updated on my projects and explore potential collaborations. I'm eager to meet fellow development enthusiasts and build something amazing together.
+<p align="left"> 
+<a href="https://linkedin.com/in/geovanny-alexander-quintero-velez-a11384175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="geovanny-alexander-quintero-velez-a11384175" height="30" width="40" /></a>
+</p> 
 
 #### Fun fact ⚡
 When I'm not coding, you'll find me exploring new technologies, enjoying a good cup of coffee, or diving into a compelling Videogame 🎮
