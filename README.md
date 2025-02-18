@@ -67,7 +67,7 @@ I am currently immersed in exciting projects that focus on web experiences such 
 I'm always open to exciting collaborations and learning opportunities. Whether you have an interesting project or just want to chat about technology, feel free to reach out!
 
 #### Where to find me 📫
-Connect with me on [LinkedIn](www.linkedin.com/in/geovanny-alexander-quintero-velez-a11384175) **www.linkedin.com/in/geovanny-alexander-quintero-velez-a11384175** or my email **geovannyalexander07@gmail.com** to stay updated on my projects and explore potential collaborations. I'm eager to meet fellow development enthusiasts and build something amazing together.
+Connect with me on [LinkedIn](www.linkedin.com/in/geovannyqv) **www.linkedin.com/in/geovannyqv** or my email **geovannyalexander07@gmail.com** to stay updated on my projects and explore potential collaborations. I'm eager to meet fellow development enthusiasts and build something amazing together.
 <p align="left"> 
 <a href="https://linkedin.com/in/geovanny-alexander-quintero-velez-a11384175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="geovanny-alexander-quintero-velez-a11384175" height="30" width="40" /></a>
 </p> 
