@@ -83,8 +83,18 @@ Thanks for stopping by my profile! I hope you find something interesting here. ð
 </a>
 
 ### Featured projects
-<a href="https://github.com/Geovanny-Quintero-Velez/API_REST_CRUD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Geovanny-Quintero-Velez&repo=API_REST_CRUD" />
+
+<a href="https://github.com/Geovanny-Quintero-Velez/airflow_space_data_project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Geovanny-Quintero-Velez&repo=airflow_space_data_project" />
+</a>
+<a href="https://github.com/Geovanny-Quintero-Velez/Exploracion_Spark_RDD_Olimpiadas">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Geovanny-Quintero-Velez&repo=Exploracion_Spark_RDD_Olimpiadas" />
+</a>
+<a href="https://github.com/Geovanny-Quintero-Velez/sentiment_analysis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Geovanny-Quintero-Velez&repo=sentiment_analysis" />
+</a>
+<a href="https://github.com/Geovanny-Quintero-Velez/ecommerce-frontend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Geovanny-Quintero-Velez&repo=ecommerce-frontend" />
 </a>
 
 ### Metrics
